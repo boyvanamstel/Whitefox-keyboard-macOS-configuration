@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/main.c.o   -c /srv/KiiConf/controller/main.c",
+  "file": "/srv/KiiConf/controller/main.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Lib/mk20dx.c.o   -c /srv/KiiConf/controller/Lib/mk20dx.c",
+  "file": "/srv/KiiConf/controller/Lib/mk20dx.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Lib/delay.c.o   -c /srv/KiiConf/controller/Lib/delay.c",
+  "file": "/srv/KiiConf/controller/Lib/delay.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Scan/ISSILed/led_scan.c.o   -c /srv/KiiConf/controller/Scan/ISSILed/led_scan.c",
+  "file": "/srv/KiiConf/controller/Scan/ISSILed/led_scan.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Scan/MatrixARM/matrix_scan.c.o   -c /srv/KiiConf/controller/Scan/MatrixARM/matrix_scan.c",
+  "file": "/srv/KiiConf/controller/Scan/MatrixARM/matrix_scan.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Scan/WhiteFox/scan_loop.c.o   -c /srv/KiiConf/controller/Scan/WhiteFox/scan_loop.c",
+  "file": "/srv/KiiConf/controller/Scan/WhiteFox/scan_loop.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Macro/PartialMap/macro.c.o   -c /srv/KiiConf/controller/Macro/PartialMap/macro.c",
+  "file": "/srv/KiiConf/controller/Macro/PartialMap/macro.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Macro/PartialMap/result.c.o   -c /srv/KiiConf/controller/Macro/PartialMap/result.c",
+  "file": "/srv/KiiConf/controller/Macro/PartialMap/result.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Macro/PartialMap/trigger.c.o   -c /srv/KiiConf/controller/Macro/PartialMap/trigger.c",
+  "file": "/srv/KiiConf/controller/Macro/PartialMap/trigger.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/output_com.c.o   -c /srv/KiiConf/controller/Output/pjrcUSB/output_com.c",
+  "file": "/srv/KiiConf/controller/Output/pjrcUSB/output_com.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_desc.c.o   -c /srv/KiiConf/controller/Output/pjrcUSB/arm/usb_desc.c",
+  "file": "/srv/KiiConf/controller/Output/pjrcUSB/arm/usb_desc.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_dev.c.o   -c /srv/KiiConf/controller/Output/pjrcUSB/arm/usb_dev.c",
+  "file": "/srv/KiiConf/controller/Output/pjrcUSB/arm/usb_dev.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_joystick.c.o   -c /srv/KiiConf/controller/Output/pjrcUSB/arm/usb_joystick.c",
+  "file": "/srv/KiiConf/controller/Output/pjrcUSB/arm/usb_joystick.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_keyboard.c.o   -c /srv/KiiConf/controller/Output/pjrcUSB/arm/usb_keyboard.c",
+  "file": "/srv/KiiConf/controller/Output/pjrcUSB/arm/usb_keyboard.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_mem.c.o   -c /srv/KiiConf/controller/Output/pjrcUSB/arm/usb_mem.c",
+  "file": "/srv/KiiConf/controller/Output/pjrcUSB/arm/usb_mem.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_mouse.c.o   -c /srv/KiiConf/controller/Output/pjrcUSB/arm/usb_mouse.c",
+  "file": "/srv/KiiConf/controller/Output/pjrcUSB/arm/usb_mouse.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_rawio.c.o   -c /srv/KiiConf/controller/Output/pjrcUSB/arm/usb_rawio.c",
+  "file": "/srv/KiiConf/controller/Output/pjrcUSB/arm/usb_rawio.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_serial.c.o   -c /srv/KiiConf/controller/Output/pjrcUSB/arm/usb_serial.c",
+  "file": "/srv/KiiConf/controller/Output/pjrcUSB/arm/usb_serial.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Debug/cli/cli.c.o   -c /srv/KiiConf/controller/Debug/cli/cli.c",
+  "file": "/srv/KiiConf/controller/Debug/cli/cli.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Debug/led/led.c.o   -c /srv/KiiConf/controller/Debug/led/led.c",
+  "file": "/srv/KiiConf/controller/Debug/led/led.c"
+},
+{
+  "directory": "/srv/KiiConf/dist/tmp/91a45a017069002ea4515f2ad45af453157711e7fea60f",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/srv/KiiConf/controller -I.    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/srv/KiiConf/controller/Scan/ISSILed -I/srv/KiiConf/controller/Scan/MatrixARM -I/srv/KiiConf/controller/Scan/WhiteFox -I/srv/KiiConf/controller/Macro/PartialMap -I/srv/KiiConf/controller/Output/pjrcUSB -I/srv/KiiConf/controller/Debug/cli -I/srv/KiiConf/controller/Debug/led -I/srv/KiiConf/controller/Debug/print -I/srv/KiiConf/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Debug/print/print.c.o   -c /srv/KiiConf/controller/Debug/print/print.c",
+  "file": "/srv/KiiConf/controller/Debug/print/print.c"
+}
+]

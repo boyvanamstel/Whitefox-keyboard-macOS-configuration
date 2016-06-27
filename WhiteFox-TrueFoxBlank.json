@@ -1,0 +1,994 @@
+{
+    "header": {
+        "Name": "WhiteFox",
+        "Layout": "TrueFoxBlank",
+        "Base": "AllBlank",
+        "Version": "0.2",
+        "Author": "HaaTa (Jacob Alexander) 2015",
+        "KLL": "0.3c",
+        "Date": "2016-05-30",
+        "Generator": "KIICONF 0.2"
+    },
+    "matrix": [
+        {
+            "code": "0x00",
+            "x": 10,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "ESC",
+                    "label": "ESC"
+                }
+            }
+        },
+        {
+            "code": "0x01",
+            "x": 14,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "1",
+                    "label": "1"
+                },
+                "1": {
+                    "key": "F1",
+                    "label": "F1"
+                }
+            }
+        },
+        {
+            "code": "0x02",
+            "x": 18,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "2",
+                    "label": "2"
+                },
+                "1": {
+                    "key": "F2",
+                    "label": "F2"
+                }
+            }
+        },
+        {
+            "code": "0x03",
+            "x": 22,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "3",
+                    "label": "3"
+                },
+                "1": {
+                    "key": "F3",
+                    "label": "F3"
+                }
+            }
+        },
+        {
+            "code": "0x04",
+            "x": 26,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "4",
+                    "label": "4"
+                },
+                "1": {
+                    "key": "F4",
+                    "label": "F4"
+                }
+            }
+        },
+        {
+            "code": "0x05",
+            "x": 30,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "5",
+                    "label": "5"
+                },
+                "1": {
+                    "key": "F5",
+                    "label": "F5"
+                }
+            }
+        },
+        {
+            "code": "0x06",
+            "x": 34,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "6",
+                    "label": "6"
+                },
+                "1": {
+                    "key": "F6",
+                    "label": "F6"
+                }
+            }
+        },
+        {
+            "code": "0x07",
+            "x": 38,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "7",
+                    "label": "7"
+                },
+                "1": {
+                    "key": "F7",
+                    "label": "F7"
+                }
+            }
+        },
+        {
+            "code": "0x08",
+            "x": 42,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "8",
+                    "label": "8"
+                },
+                "1": {
+                    "key": "F8",
+                    "label": "F8"
+                }
+            }
+        },
+        {
+            "code": "0x09",
+            "x": 46,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "9",
+                    "label": "9"
+                },
+                "1": {
+                    "key": "F9",
+                    "label": "F9"
+                }
+            }
+        },
+        {
+            "code": "0x0A",
+            "x": 50,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "0",
+                    "label": "0"
+                },
+                "1": {
+                    "key": "F10",
+                    "label": "F10"
+                }
+            }
+        },
+        {
+            "code": "0x0B",
+            "x": 54,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "MINUS",
+                    "label": "-"
+                },
+                "1": {
+                    "key": "F11",
+                    "label": "F11"
+                }
+            }
+        },
+        {
+            "code": "0x0C",
+            "x": 58,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "EQUAL",
+                    "label": "="
+                },
+                "1": {
+                    "key": "F12",
+                    "label": "F12"
+                }
+            }
+        },
+        {
+            "code": "0x0D",
+            "x": 62,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "BACKSLASH",
+                    "label": "\\"
+                },
+                "1": {
+                    "key": "HOME",
+                    "label": "HOME"
+                }
+            }
+        },
+        {
+            "code": "0x0E",
+            "x": 66,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "BACKTICK",
+                    "label": "`"
+                },
+                "1": {
+                    "key": "END",
+                    "label": "END"
+                }
+            }
+        },
+        {
+            "code": "0x0F",
+            "x": 70,
+            "y": 5,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "FUN1",
+                    "label": "\u01921"
+                }
+            }
+        },
+        {
+            "code": "0x10",
+            "x": 10,
+            "y": 9,
+            "w": 6,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "TAB",
+                    "label": "TAB"
+                }
+            }
+        },
+        {
+            "code": "0x11",
+            "x": 16,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "Q",
+                    "label": "Q"
+                }
+            }
+        },
+        {
+            "code": "0x12",
+            "x": 20,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "W",
+                    "label": "W"
+                }
+            }
+        },
+        {
+            "code": "0x13",
+            "x": 24,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "E",
+                    "label": "E"
+                }
+            }
+        },
+        {
+            "code": "0x14",
+            "x": 28,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "R",
+                    "label": "R"
+                }
+            }
+        },
+        {
+            "code": "0x15",
+            "x": 32,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "T",
+                    "label": "T"
+                }
+            }
+        },
+        {
+            "code": "0x16",
+            "x": 36,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "Y",
+                    "label": "Y"
+                }
+            }
+        },
+        {
+            "code": "0x17",
+            "x": 40,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "U",
+                    "label": "U"
+                }
+            }
+        },
+        {
+            "code": "0x18",
+            "x": 44,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "I",
+                    "label": "I"
+                }
+            }
+        },
+        {
+            "code": "0x19",
+            "x": 48,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "O",
+                    "label": "O"
+                }
+            }
+        },
+        {
+            "code": "0x1A",
+            "x": 52,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "P",
+                    "label": "P"
+                }
+            }
+        },
+        {
+            "code": "0x1B",
+            "x": 56,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "LBRACE",
+                    "label": "["
+                },
+                "1": {
+                    "key": "#:ledControl( 3, 15, 0 )",
+                    "label": "LED-"
+                }
+            }
+        },
+        {
+            "code": "0x1C",
+            "x": 60,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "RBRACE",
+                    "label": "]"
+                },
+                "1": {
+                    "key": "#:ledControl( 4, 15, 0 )",
+                    "label": "LED+"
+                }
+            }
+        },
+        {
+            "code": "0x1D",
+            "x": 64,
+            "y": 9,
+            "w": 6,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
+                },
+                "1": {
+                    "key": "#:ledControl( 5, 0, 0 )",
+                    "label": "LED OFF"
+                }
+            }
+        },
+        {
+            "code": "0x1E",
+            "x": 70,
+            "y": 9,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "DELETE",
+                    "label": "DEL"
+                },
+                "1": {
+                    "key": "CONS:MUTE",
+                    "label": "MUTE"
+                }
+            }
+        },
+        {
+            "code": "0x1F",
+            "x": 10,
+            "y": 13,
+            "w": 7,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "CAPSLOCK",
+                    "label": "CAPSLK"
+                }
+            }
+        },
+        {
+            "code": "0x20",
+            "x": 17,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "A",
+                    "label": "A"
+                }
+            }
+        },
+        {
+            "code": "0x21",
+            "x": 21,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "S",
+                    "label": "S"
+                }
+            }
+        },
+        {
+            "code": "0x22",
+            "x": 25,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "D",
+                    "label": "D"
+                }
+            }
+        },
+        {
+            "code": "0x23",
+            "x": 29,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "F",
+                    "label": "F"
+                }
+            }
+        },
+        {
+            "code": "0x24",
+            "x": 33,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "G",
+                    "label": "G"
+                }
+            }
+        },
+        {
+            "code": "0x25",
+            "x": 37,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "H",
+                    "label": "H"
+                }
+            }
+        },
+        {
+            "code": "0x26",
+            "x": 41,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "J",
+                    "label": "J"
+                }
+            }
+        },
+        {
+            "code": "0x27",
+            "x": 45,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "K",
+                    "label": "K"
+                }
+            }
+        },
+        {
+            "code": "0x28",
+            "x": 49,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "L",
+                    "label": "L"
+                }
+            }
+        },
+        {
+            "code": "0x29",
+            "x": 53,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "SEMICOLON",
+                    "label": ";"
+                }
+            }
+        },
+        {
+            "code": "0x2A",
+            "x": 57,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "QUOTE",
+                    "label": "'"
+                }
+            }
+        },
+        {
+            "code": "0x2C",
+            "x": 61,
+            "y": 13,
+            "w": 9,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "ENTER",
+                    "label": "\u21b5"
+                }
+            }
+        },
+        {
+            "code": "0x2D",
+            "x": 70,
+            "y": 13,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "PAGEUP",
+                    "label": "PGUP"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
+                }
+            }
+        },
+        {
+            "code": "0x2E",
+            "x": 10,
+            "y": 17,
+            "w": 9,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "LSHIFT",
+                    "label": "L\u21d1"
+                }
+            }
+        },
+        {
+            "code": "0x30",
+            "x": 19,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "Z",
+                    "label": "Z"
+                }
+            }
+        },
+        {
+            "code": "0x31",
+            "x": 23,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "X",
+                    "label": "X"
+                }
+            }
+        },
+        {
+            "code": "0x32",
+            "x": 27,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "C",
+                    "label": "C"
+                }
+            }
+        },
+        {
+            "code": "0x33",
+            "x": 31,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "V",
+                    "label": "V"
+                }
+            }
+        },
+        {
+            "code": "0x34",
+            "x": 35,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "B",
+                    "label": "B"
+                }
+            }
+        },
+        {
+            "code": "0x35",
+            "x": 39,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "N",
+                    "label": "N"
+                }
+            }
+        },
+        {
+            "code": "0x36",
+            "x": 43,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "M",
+                    "label": "M"
+                }
+            }
+        },
+        {
+            "code": "0x37",
+            "x": 47,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "COMMA",
+                    "label": ","
+                }
+            }
+        },
+        {
+            "code": "0x38",
+            "x": 51,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "PERIOD",
+                    "label": "."
+                }
+            }
+        },
+        {
+            "code": "0x39",
+            "x": 55,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "SLASH",
+                    "label": "\/"
+                }
+            }
+        },
+        {
+            "code": "0x3A",
+            "x": 59,
+            "y": 17,
+            "w": 7,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "RSHIFT",
+                    "label": "R\u21d1"
+                }
+            }
+        },
+        {
+            "code": "0x3B",
+            "x": 66,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "UP",
+                    "label": "\u2191"
+                },
+                "1": {
+                    "key": "CONS:EJECT",
+                    "label": "EJECT"
+                }
+            }
+        },
+        {
+            "code": "0x3C",
+            "x": 70,
+            "y": 17,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
+                }
+            }
+        },
+        {
+            "code": "0x3D",
+            "x": 10,
+            "y": 21,
+            "w": 5,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "CTRL",
+                    "label": "LCTRL"
+                }
+            }
+        },
+        {
+            "code": "0x3E",
+            "x": 15,
+            "y": 21,
+            "w": 5,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "LALT",
+                    "label": "LALT"
+                }
+            }
+        },
+        {
+            "code": "0x3F",
+            "x": 20,
+            "y": 21,
+            "w": 5,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "LGUI",
+                    "label": "LGUI"
+                }
+            }
+        },
+        {
+            "code": "0x40",
+            "x": 25,
+            "y": 21,
+            "w": 25,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
+                }
+            }
+        },
+        {
+            "code": "0x41",
+            "x": 50,
+            "y": 21,
+            "w": 5,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "RGUI",
+                    "label": "RGUI"
+                }
+            }
+        },
+        {
+            "code": "0x42",
+            "x": 55,
+            "y": 21,
+            "w": 5,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "RALT",
+                    "label": "RALT"
+                }
+            }
+        },
+        {
+            "code": "0x44",
+            "x": 62,
+            "y": 21,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "LEFT",
+                    "label": "\u2190"
+                },
+                "1": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
+                }
+            }
+        },
+        {
+            "code": "0x45",
+            "x": 66,
+            "y": 21,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "DOWN",
+                    "label": "\u2193"
+                },
+                "1": {
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
+                }
+            }
+        },
+        {
+            "code": "0x46",
+            "x": 70,
+            "y": 21,
+            "w": 4,
+            "h": 4,
+            "layers": {
+                "0": {
+                    "key": "RIGHT",
+                    "label": "\u2192"
+                },
+                "1": {
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
+                }
+            }
+        }
+    ]
+}
