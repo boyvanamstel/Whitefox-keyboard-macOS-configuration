@@ -1,6 +1,6 @@
 # My Whitefox Keyboard Configuration for macOS
 
-This is my layout for [Matt3o's Whitefox keyboard](https://input.club/whitefox). Since I use macOS primarily, the modifier keys are setup to match Apple's default configuration: ctrl, alt, cmd.
+This is my configration for [Matt3o's Whitefox keyboard](https://input.club/whitefox) (The True Fox layout).
 
 ![macOS compatible configuration for the Whitefox keyboard](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/configuration.jpg)
 
