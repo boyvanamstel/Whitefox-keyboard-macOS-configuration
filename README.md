@@ -15,6 +15,8 @@ This is my layout for [Matt3o's Whitefox keyboard](https://input.club/whitefox).
 1. [Download a copy of the configuration](https://github.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/archive/master.zip).
 2. [Follow Input Club's guide to install the customized firmware](https://input.club/configurator-setup).
 
+_Note_: The little hole in the bottom of the Whitefox keyboard activates firmware-flashing-mode. No need to take it apart.
+
 ## Whitefox Keyboard?
 
 ![Whitefox keyboard, full](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/whitefox1.jpg)
