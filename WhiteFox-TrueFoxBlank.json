@@ -20,6 +20,10 @@
                 "0": {
                     "key": "ESC",
                     "label": "ESC"
+                },
+                "1": {
+                    "key": "#:toggleKbdProtocol()",
+                    "label": "6\/N-KRO"
                 }
             }
         },

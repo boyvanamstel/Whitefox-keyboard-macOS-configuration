@@ -7,6 +7,7 @@ KLL = "0.3c";
 Date = "2016-05-30";
 Generator = "KIICONF 0.2";
 
+U"ESC" : toggleKbdProtocol();
 U"1" : U"F1";
 U"2" : U"F2";
 U"3" : U"F3";
