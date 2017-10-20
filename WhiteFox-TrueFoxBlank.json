@@ -655,6 +655,10 @@
                 "0": {
                     "key": "ENTER",
                     "label": "\u21b5"
+                },
+                "1": {
+                    "key": "PRINTSCREEN",
+                    "label": "PRSC"
                 }
             }
         },

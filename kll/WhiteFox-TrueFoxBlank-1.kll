@@ -26,6 +26,7 @@ U"LBRACE" : ledControl( 3, 15, 0 );
 U"RBRACE" : ledControl( 4, 15, 0 );
 U"BACKSLASH" : ledControl( 5, 0, 0 );
 U"DELETE" : CONS"MUTE";
+U"ENTER" : U"PRINTSCREEN";
 U"PAGEUP" : CONS"VOLUMEUP";
 U"UP" : CONS"EJECT";
 U"PAGEDOWN" : CONS"VOLUMEDOWN";
