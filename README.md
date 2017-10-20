@@ -19,6 +19,10 @@ _Note_: The little hole in the bottom of the Whitefox keyboard activates firmwar
 
 ## Changes
 
+### October 20th 2017
+
+Added a Printscreen button.
+
 ### July 4th 2016
 
 Added a 6/N-KRO switcher on the escape key (when fn is pressed). This resolves an issue where media keys won't work in Windows 10 unless you unplug the keyboard and plug it back in. Now you can just press the key to switch modes and you're set.
