@@ -659,8 +659,8 @@
                     "label": "↵"
                 },
                 "1": {
-                    "key": "CONS:PAUSEPLAY",
-                    "label": "PL/PS"
+                    "key": "PRINTSCREEN",
+                    "label": "PRSC"
                 }
             }
         },
@@ -676,8 +676,8 @@
                     "label": "HOME"
                 },
                 "1": {
-                    "key": "PAGEUP",
-                    "label": "PGUP"
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -849,8 +849,8 @@
                     "label": "↑"
                 },
                 "1": {
-                    "key": "CONS:VOLUMEUP",
-                    "label": "VOL+"
+                    "key": "PAGEUP",
+                    "label": "PGUP"
                 }
             }
         },
@@ -866,8 +866,8 @@
                     "label": "END"
                 },
                 "1": {
-                    "key": "PAGEDOWN",
-                    "label": "PGDN"
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
@@ -922,8 +922,8 @@
                     "label": "[ ]"
                 },
                 "1": {
-                    "key": "PRINTSCREEN",
-                    "label": "PRSC"
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL/PS"
                 }
             }
         },
@@ -982,8 +982,8 @@
                     "label": "↓"
                 },
                 "1": {
-                    "key": "CONS:VOLUMEDOWN",
-                    "label": "VOL-"
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 }
             }
         },

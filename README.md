@@ -2,7 +2,7 @@
 
 This is my configration for [Matt3o's Whitefox keyboard](https://input.club/whitefox) (The True Fox layout).
 
-![macOS and Windows compatible configuration for the Whitefox keyboard](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/configuration.jpg)
+![macOS and Windows compatible configuration for the Whitefox keyboard](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/configuration.png)
 
 ## Key Features
 
@@ -18,6 +18,15 @@ This is my configration for [Matt3o's Whitefox keyboard](https://input.club/whit
 _Note_: The little hole in the bottom of the Whitefox keyboard activates firmware-flashing-mode. No need to take it apart.
 
 ## Changes
+
+### May 18th 2018
+
+* Changed the Fn-1 of Home to Vol Up.
+* Changed the Fn-1 of End to Vol Down.
+* Changed the Fn-1 of Up to Page-Up.
+* Changed the Fn-1 of Down to Page-Down.
+* Changed the Fn-1 of Return to Printscreen.
+* Changed the Fn-1 of Space to Play/Pause.
 
 ### May 13th 2018
 
